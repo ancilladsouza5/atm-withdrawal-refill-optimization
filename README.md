@@ -5,7 +5,7 @@ This project analyzes ATM cash withdrawal patterns to understand cash demand, pr
 ---
 
 ## Objectives
-* **Analyze** ATM withdrawal trends and cash usage behavior.
+* **Analyze** ATM withdrawal trends and cash usage behavior
 * **Predict** ATM cash withdrawal amounts and pinpoint precise refill requirements using machine learning.
 * **Improve** ATM cash availability while reducing operational costs and cashout risks.
 * **Propose** targeted service improvements, focusing on accessibility for women and senior citizens.
