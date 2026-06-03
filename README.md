@@ -11,7 +11,7 @@ This project analyzes ATM cash withdrawal patterns to understand cash demand, pr
 * **Propose** targeted service improvements, focusing on accessibility for women and senior citizens.
 
 ## Tools & Technologies Used
-* **Data Science / Analysis:** Python (`Pandas`, `Scikit-learn`, `Matplotlib`)
+* **Data Science / Analysis:** Python
 * **Data Engineering:** Microsoft Excel (Data Cleaning & Preparation)
 * **Business Intelligence:** Microsoft Power BI (Interactive Dashboard Development)
 
