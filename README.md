@@ -1,4 +1,4 @@
-# ATM Cash Withdrawal Demand Forecasting & Refill Optimization
+# ATM Withdrawal Consumption Trend, Refill Optimization & Customer Service Enhancement Study
 
 This project analyzes ATM cash withdrawal patterns to understand cash demand, predict refill requirements, and optimize ATM replenishment schedules. The study leverages historical ATM transaction data, machine learning models, and Power BI visualizations to support data-driven ATM cash management.
 
